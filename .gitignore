@@ -1,0 +1,12 @@
+# Project exclude paths
+/qy-109-cloud-common/target/
+/qy-109-cloud-config/target/
+/qy-109-cloud-consumer-management/qy-109-cloud-consumer-backup/target/
+/qy-109-cloud-eureka-management/qy-109-cloud-eureka-6081/target/
+/qy-109-cloud-eureka-management/qy-109-cloud-eureka-6082/target/
+/qy-109-cloud-eureka-management/qy-109-cloud-eureka-6083/target/
+/qy-109-cloud-management/qy-109-cloud-api/target/
+/qy-109-cloud-management/qy-109-cloud-mapper/target/
+/qy-109-cloud-management/qy-109-cloud-model/target/
+/qy-109-cloud-management/qy-109-cloud-service/target/
+/qy-109-cloud-provider-management/qy-109-cloud-provider-backup/target/

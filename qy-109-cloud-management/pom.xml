@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>cloud-master</artifactId>
+        <groupId>com.aaa</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>qy-109-cloud-management</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>qy-109-cloud-model</module>
+        <module>qy-109-cloud-mapper</module>
+        <module>qy-109-cloud-service</module>
+        <module>qy-109-cloud-api</module>
+    </modules>
+
+<dependencies>
+    <dependency>
+        <groupId>com.aaa</groupId>
+        <artifactId>qy-109-cloud-common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
+</project>
